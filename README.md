@@ -26,4 +26,5 @@ This project focuses on cleaning and analyzing a dataset related to layoffs usin
 - **Temporal Trends**: Years in the `2022` range saw a peak in layoffs, particularly around `month(s)`.
 - **Impacted Companies**: `Google` was the most affected, with `12 000` layoffs recorded in 2023.
 
+#
 --  the original dataset (`layoffs.csv`) used in this project.
