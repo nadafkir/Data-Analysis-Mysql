@@ -20,7 +20,7 @@ This project focuses on cleaning and analyzing a dataset related to layoffs usin
    - Identifying temporal and sectoral trends in layoffs.
    - Using SQL queries to generate insights into the most affected companies, industries, and periods.
 
-## Key Insights
+## Some Statistical Discoveries
 
 - **Most Affected Industries**: The `Consumer` industry experienced the highest number of layoffs.
 - **Temporal Trends**: Years in the `2022` range saw a peak in layoffs, particularly around `month(s)`.
